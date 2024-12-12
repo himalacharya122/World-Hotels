@@ -1,7 +1,7 @@
 **World Hotels (WH) Booking System**
 ### **1. Project Directory Structure**
 
-```plaintext
+```
 WH-Booking-System/
 ├── client/                      # Front-End
 │   ├── public/                  # Static assets
